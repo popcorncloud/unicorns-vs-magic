@@ -21,6 +21,20 @@ switch(room)
 		this_sPlayerR =sPlayer4R; 		
 		break;
 	}
+	case room011:
+	{
+		this_sPlayer = sPlayer6;
+		this_sPlayerJ = sPlayerJ6;
+		this_sPlayerR =sPlayerR6; 		
+		break;
+	}
+	case room0111:
+	{
+		this_sPlayer = sPlayer8;
+		this_sPlayerJ = sPlayerJ8;
+		this_sPlayerR =sPlayerR8; 		
+		break;
+	}
 	
 	default:
 	{
