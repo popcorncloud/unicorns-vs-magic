@@ -14,3 +14,10 @@ enum TRANS_MODE
 mode = TRANS_MODE.INTRO;
 percent = 1;
 target = room;
+
+enum PLAYER_MOVE
+{
+	STOP,
+	RUN,
+	JUMP
+}
