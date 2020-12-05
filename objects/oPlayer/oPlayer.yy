@@ -152,6 +152,34 @@
             "value": "\"sPlayer\", \"sPlayerR\", \"sPlayerJ\"",
             "varName": "PlayerSpritesDefault",
             "varType": 6
+        },
+        {
+            "id": "6dc3ef2f-99c4-46e3-bf28-8bb907b45c2d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "oStar1",
+            "varName": "weapon1",
+            "varType": 5
+        },
+        {
+            "id": "9897ac0b-3616-479f-bb88-1a3727ca2601",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "oDrop1",
+            "varName": "weapon2",
+            "varType": 5
         }
     ],
     "solid": false,

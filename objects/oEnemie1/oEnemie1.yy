@@ -71,7 +71,36 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "196b5bb5-aeb1-4a54-b1e9-110396904eb6",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "afraidofheights",
+            "varType": 3
+        },
+        {
+            "id": "feee6235-dc82-4abc-945d-5dd87780f966",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "grounded",
+            "varType": 3
+        }
+    ],
     "solid": false,
     "spriteId": "eba1838a-dd4f-4210-a6a9-f25df83fbda2",
     "visible": true

@@ -31,7 +31,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "47269378-e5a0-4d60-85e4-aca614d52436",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "oTree1",
+            "varName": "weapon1",
+            "varType": 5
+        }
+    ],
     "solid": false,
     "spriteId": "7deb3818-d7ea-42fd-8009-c51820120e93",
     "visible": true
