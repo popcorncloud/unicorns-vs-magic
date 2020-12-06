@@ -1,8 +1,8 @@
 {
-    "id": "10bcd047-3730-4dde-82bc-f9d9f3eef1a9",
+    "id": "378e0a24-9e0e-4bcb-ab75-94c067258b25",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oEnemie1",
+    "name": "oEnemie2",
     "eventList": [
         
     ],
@@ -24,25 +24,25 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "618c7edf-db54-4c1a-bb7a-d9855b56de57",
+            "id": "535a9909-e54b-40d1-b8ec-b25598863624",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": [
-                "\"sEnemie1\"",
-                "\"sEnemie1R\"",
-                "\"sEnemie1J\""
+                "\"sPlayer3\"",
+                "\"sPlayer3R\"",
+                "\"sPlayer3J\""
             ],
             "multiselect": true,
             "rangeEnabled": false,
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "\"sEnemie1\", \"sEnemie1R\", \"sEnemie1J\"",
+            "value": "\"sPlayer3\", \"sPlayer3R\", \"sPlayer3J\"",
             "varName": "EnemieSpritesDefault",
             "varType": 6
         },
         {
-            "id": "b37c4c6f-7fb4-4de7-b374-a0f7dc603206",
+            "id": "f7d6d3de-a817-4b24-85cb-51efd2db6916",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -51,12 +51,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "oDead1",
+            "value": "oDead2",
             "varName": "EnemySpriteDead",
             "varType": 5
         },
         {
-            "id": "f8347b2e-88be-45be-9d5e-3c6354b0448e",
+            "id": "4402cd62-4b9e-48cd-93a6-d6ab4f89628b",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -65,12 +65,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "3",
+            "value": "5",
             "varName": "walksp",
             "varType": 0
         }
     ],
     "solid": false,
-    "spriteId": "eba1838a-dd4f-4210-a6a9-f25df83fbda2",
+    "spriteId": "27c572f0-baad-4923-a9ee-d44bd2c15968",
     "visible": true
 }

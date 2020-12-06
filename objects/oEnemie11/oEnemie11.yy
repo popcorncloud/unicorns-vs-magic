@@ -1,8 +1,8 @@
 {
-    "id": "10bcd047-3730-4dde-82bc-f9d9f3eef1a9",
+    "id": "378e0a24-9e0e-4bcb-ab75-94c067258b25",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oEnemie1",
+    "name": "oEnemie11",
     "eventList": [
         
     ],
@@ -24,7 +24,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "618c7edf-db54-4c1a-bb7a-d9855b56de57",
+            "id": "535a9909-e54b-40d1-b8ec-b25598863624",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": [
@@ -40,34 +40,6 @@
             "value": "\"sEnemie1\", \"sEnemie1R\", \"sEnemie1J\"",
             "varName": "EnemieSpritesDefault",
             "varType": 6
-        },
-        {
-            "id": "b37c4c6f-7fb4-4de7-b374-a0f7dc603206",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "oDead1",
-            "varName": "EnemySpriteDead",
-            "varType": 5
-        },
-        {
-            "id": "f8347b2e-88be-45be-9d5e-3c6354b0448e",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "3",
-            "varName": "walksp",
-            "varType": 0
         }
     ],
     "solid": false,

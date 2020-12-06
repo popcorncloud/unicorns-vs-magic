@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "1f517939-96c8-4b8b-9eb7-e27743a2dedc",
+            "Value": {
+                "id": "76d213d5-524e-4832-9337-1c68becf4a80",
+                "resourcePath": "objects\\pEnemy\\pEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "27c572f0-baad-4923-a9ee-d44bd2c15968",
             "Value": {
                 "id": "393570a5-8c61-4f92-8c66-d74dff53bccb",
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "3463319f-be3f-413a-8f14-413d332f2a1c",
+            "Value": {
+                "id": "a1cb64b7-3ece-43a9-911e-62ffc20a91a1",
+                "resourcePath": "objects\\oDead2\\oDead2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "35899ca4-9247-4b64-b060-ff92be4398bf",
             "Value": {
                 "id": "9913109d-3493-41bf-9e58-413f67da0ab5",
@@ -203,6 +219,14 @@
             "Value": {
                 "id": "dbf47bb6-a244-46ed-abc0-12b45703ee69",
                 "resourcePath": "objects\\oPlayer2\\oPlayer2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "378e0a24-9e0e-4bcb-ab75-94c067258b25",
+            "Value": {
+                "id": "74e26b4a-10ce-4ab7-b423-62f7e61403b5",
+                "resourcePath": "objects\\oEnemie2\\oEnemie2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -819,6 +843,14 @@
             "Value": {
                 "id": "20c376ac-023f-4078-8042-ee7bcf428062",
                 "resourcePath": "objects\\oTree1\\oTree1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f2c54d89-8cc8-44d7-a2f2-d62b99726f74",
+            "Value": {
+                "id": "1dc3bd8f-7271-4f22-8de1-9804785f2973",
+                "resourcePath": "objects\\pDeadEnemy\\pDeadEnemy.yy",
                 "resourceType": "GMObject"
             }
         },

@@ -2,7 +2,7 @@
     "id": "3463319f-be3f-413a-8f14-413d332f2a1c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oDead11",
+    "name": "oDead2",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "6ab00617-3fce-418b-b9da-4b38aa8ddea4",
+    "spriteId": "8d904455-ad27-43d6-a04f-380166051ae4",
     "visible": true
 }
