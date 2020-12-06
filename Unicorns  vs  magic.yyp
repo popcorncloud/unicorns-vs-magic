@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "7a9bba87-c320-46ea-91cd-812f2c10bbd1",
+            "Value": {
+                "id": "7631382d-d5d3-4421-9837-86c2d60696bd",
+                "resourcePath": "sprites\\sDeadPlayer1\\sDeadPlayer1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7deb3818-d7ea-42fd-8009-c51820120e93",
             "Value": {
                 "id": "035b4afd-ab9b-48ea-b1a5-61af0bf5735a",
