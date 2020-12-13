@@ -8,5 +8,14 @@ if (hp <= 0)
 		if (sign(hsp) !=0)
 			image_xscale = sign(hsp);
 	}
+	
+	if (HitByID > 0)
+	{
+		with(HitByID)
+		{
+			kills++;
+		}
+	}
+	
 	instance_destroy();
 }

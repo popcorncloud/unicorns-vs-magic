@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "1ff64a1c-aaa4-47ac-b973-fc7b27d6e6ee",
+            "Value": {
+                "id": "d2d0d73d-e440-4de3-af94-0cc57693ab7c",
+                "resourcePath": "fonts\\fScore\\fScore.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "27c572f0-baad-4923-a9ee-d44bd2c15968",
             "Value": {
                 "id": "393570a5-8c61-4f92-8c66-d74dff53bccb",
@@ -164,6 +172,14 @@
                 "id": "47583187-52a2-4e12-8d73-a26a05a41342",
                 "resourcePath": "tilesets\\tileset1\\tileset1.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "2b81983a-c589-412a-8fff-c55be322363f",
+            "Value": {
+                "id": "561c739a-017b-4a08-ad6d-df3145e40fb1",
+                "resourcePath": "objects\\oGame\\oGame.yy",
+                "resourceType": "GMObject"
             }
         },
         {

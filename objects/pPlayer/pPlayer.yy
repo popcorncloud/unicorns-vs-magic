@@ -145,6 +145,20 @@
             "value": "True",
             "varName": "hascontrol",
             "varType": 3
+        },
+        {
+            "id": "11d37bca-5787-4d56-9486-5b7286755542",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "kills",
+            "varType": 0
         }
     ],
     "solid": false,

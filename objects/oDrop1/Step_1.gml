@@ -15,6 +15,7 @@ if (mouse_check_button(mb_left)) && (firingdelay <0)
 		speed = 25;
 		direction = other.image_angle + random_range(-3,3);
 		image_angle = direction;
+		ShotByID = oPlayer.id;
 	}
 }
 
