@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "1a01c2a1-b0a7-4736-a9f6-6bf61bf4f860",
+            "Value": {
+                "id": "6fae035b-4e01-43a7-b694-023e4365ced2",
+                "resourcePath": "scripts\\DestroyPlayer\\DestroyPlayer.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1ac26733-a93f-44d7-b227-44042174851e",
             "Value": {
                 "id": "25287dd6-7838-435f-8026-b25ab1347276",
@@ -455,6 +463,14 @@
             }
         },
         {
+            "Key": "7773dcc8-59a7-4fd2-a0c5-a15e447bdc9a",
+            "Value": {
+                "id": "06680449-823d-4680-9056-0cb42488c5f1",
+                "resourcePath": "objects\\oInventory2\\oInventory2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "783a9a33-0d7a-4f1d-a0da-345b20c659a0",
             "Value": {
                 "id": "5dd3f138-b41d-46fa-b6bf-f5d8ae8d18e9",
@@ -484,6 +500,14 @@
                 "id": "035b4afd-ab9b-48ea-b1a5-61af0bf5735a",
                 "resourcePath": "sprites\\sPlayer2\\sPlayer2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8014af6e-4eab-42c7-b9e4-abb294a6e135",
+            "Value": {
+                "id": "037658cc-9439-4fce-a211-f2befce41c8e",
+                "resourcePath": "objects\\oInventory\\oInventory.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -847,6 +871,14 @@
             }
         },
         {
+            "Key": "ef0f7f61-0b1c-4e9b-870f-a23d63429369",
+            "Value": {
+                "id": "ccf89b09-2aa7-4072-bb8a-c8a82db108e0",
+                "resourcePath": "objects\\pInventory\\pInventory.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "efe8e204-4d5b-4ed8-9b82-ff487c332b4c",
             "Value": {
                 "id": "ec4fa05a-567d-4cc8-8fc1-fcdb4df14991",
@@ -904,7 +936,8 @@
         }
     ],
     "script_order": [
-        "cbd8776f-2281-4265-aeb0-b751f6876d3a"
+        "cbd8776f-2281-4265-aeb0-b751f6876d3a",
+        "1a01c2a1-b0a7-4736-a9f6-6bf61bf4f860"
     ],
     "tutorial": ""
 }

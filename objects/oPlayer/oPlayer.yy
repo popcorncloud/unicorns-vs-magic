@@ -180,6 +180,20 @@
             "value": "oDrop1",
             "varName": "weapon2",
             "varType": 5
+        },
+        {
+            "id": "a600faf9-223d-4a5e-a5ca-042aca71fe18",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "oInventory",
+            "varName": "InventoryName",
+            "varType": 5
         }
     ],
     "solid": false,

@@ -45,6 +45,20 @@
             "value": "oTree1",
             "varName": "weapon1",
             "varType": 5
+        },
+        {
+            "id": "a5ad16d5-ac2f-4bfe-bc20-0087d7c72792",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "oInventory2",
+            "varName": "InventoryName",
+            "varType": 5
         }
     ],
     "solid": false,
