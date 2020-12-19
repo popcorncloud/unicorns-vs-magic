@@ -36,6 +36,20 @@
             "value": "3",
             "varName": "hearts",
             "varType": 0
+        },
+        {
+            "id": "5b15f9cf-5866-4beb-b8b4-bc197f731128",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "money",
+            "varType": 0
         }
     ],
     "solid": false,
