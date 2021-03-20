@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "41cce054-470b-4a0a-9203-b7ce190e40da",
+            "Value": {
+                "id": "d71177ac-0f08-4d4d-942a-c9d07285d16c",
+                "resourcePath": "objects\\oItemsHolder\\oItemsHolder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4297e8ef-27ec-4382-9985-d329a8cfd133",
             "Value": {
                 "id": "be3bed57-2732-41bc-88bf-f09a252a3641",
