@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "oPlayer",
     "eventList": [
-        
+        {
+            "id": "f6409ded-8196-4f96-aa7e-90058b640f77",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "f38a9ce4-19a0-45ca-b120-f067833a1a22"
+        },
+        {
+            "id": "9b3664d5-7c40-49ce-8506-64a7a33a8735",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 1,
+            "m_owner": "f38a9ce4-19a0-45ca-b120-f067833a1a22"
+        }
     ],
     "maskSpriteId": "81cc4e0b-7d10-4d19-9dc3-02b9bfe1b4c7",
     "overriddenProperties": [

@@ -7,6 +7,10 @@ if (instance_exists(oPlayer))
 	draw_text(10,10,"Score: " + string(oPlayer.kills));
 	draw_text(10,30,"Hearts: " + string(oInventory.hearts));
 	draw_text(10,50,"Money: " + string(oInventory.money));
+	
+	oPlayer.StoragePlace.x = oCamera.x - oCamera.view_w_half + 100;
+	oPlayer.StoragePlace.y = oCamera.y - oCamera.view_h_half  + 10;	
+	
 }
 
 if (instance_exists(oPlayer2))
