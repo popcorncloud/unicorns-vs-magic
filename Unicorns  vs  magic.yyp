@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "12d86781-6256-4ca4-ad4f-3b8b4de40c26",
+            "Value": {
+                "id": "9c713f75-9cfe-4504-a27f-2dbae9db2a3e",
+                "resourcePath": "sprites\\sRedFlowerPetal\\sRedFlowerPetal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1497ebbc-eeee-4e44-81ba-94e6001463ed",
             "Value": {
                 "id": "7ce25b3a-5d48-4f4e-a1a8-4afa1e9d90c3",
@@ -239,6 +247,14 @@
             }
         },
         {
+            "Key": "30509fb6-565f-4b2d-868a-f71caa086ea9",
+            "Value": {
+                "id": "c32c9b0c-ab3a-4853-9272-a6414ff587af",
+                "resourcePath": "views\\30509fb6-565f-4b2d-868a-f71caa086ea9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "319e91a3-6ba8-424a-b9f1-8c7abb97ab4d",
             "Value": {
                 "id": "3fda80ea-a39d-4f8c-bd9c-4a242498b39e",
@@ -356,6 +372,14 @@
                 "id": "be3bed57-2732-41bc-88bf-f09a252a3641",
                 "resourcePath": "sprites\\sPlayerR\\sPlayerR.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "43515f71-af94-4e07-9126-6d2d294f9e62",
+            "Value": {
+                "id": "941a05e5-b85d-4716-b174-a9e0fb7953e9",
+                "resourcePath": "objects\\oFlask\\oFlask.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -823,6 +847,22 @@
             }
         },
         {
+            "Key": "b0d615f4-2f17-4e86-8f93-ad8562d4728f",
+            "Value": {
+                "id": "30bb0ae7-4d6a-4916-954c-9b831396cadb",
+                "resourcePath": "sprites\\sFlask\\sFlask.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b18f0306-20ba-49bb-9277-f2cb2284a7f5",
+            "Value": {
+                "id": "b1668d3d-cdb6-421d-92a8-3476a544830c",
+                "resourcePath": "views\\b18f0306-20ba-49bb-9277-f2cb2284a7f5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b317ff0c-01a9-48c9-ae51-876e4610bc0c",
             "Value": {
                 "id": "7b367608-f73c-42ac-9d03-d0b7977fa023",
@@ -975,6 +1015,14 @@
             }
         },
         {
+            "Key": "d906275f-cee8-460c-ac56-ab91d6cd01ab",
+            "Value": {
+                "id": "387d0124-9c7c-4557-99fe-e6db24fc1742",
+                "resourcePath": "objects\\oPickup\\oPickup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d9e76792-e489-4d88-b331-22da5935b4f5",
             "Value": {
                 "id": "e3031b99-d0c2-4be1-b934-02ed56a80a0c",
@@ -1068,6 +1116,14 @@
                 "id": "4fa31310-56cc-44b7-805a-c58c74ba176b",
                 "resourcePath": "sprites\\sPlayer4\\sPlayer4.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ea60a677-05ad-4c57-8501-6e4b54a1ef98",
+            "Value": {
+                "id": "e571f0a7-03b9-44a6-847f-20eb8966bc0a",
+                "resourcePath": "objects\\oRedFlower\\oRedFlower.yy",
+                "resourceType": "GMObject"
             }
         },
         {
