@@ -8,7 +8,7 @@ if (instance_exists(oPlayer))
 	draw_text(10,30,"Hearts: " + string(oInventory.hearts));
 	draw_text(10,50,"Money: " + string(oInventory.money));
 	
-	//show SotragePlace + it's content
+	//show StoragePlace + its content
 	for (var i=0; i< oStoragePlace.Length; i++)
 	{
 		//show StoragePlace

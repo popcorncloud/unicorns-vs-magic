@@ -1,34 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-//this is just to test how to pick up a start1. Delete this later
-//oStoragePlace.items[0].ItemSprite = asset_get_index("sStar1");
-
-
-var item_id = instance_position(x,y,oRedFlower);
-
-if (item_id != noone)
+//Check if there is an item to pick up, if yes, add this item to StoragePlace
+if (CheckAndPickupItem(oRedFlower) != noone)
 {
-	for (var i=0; i< oStoragePlace.Length; i++)
-	{
-		if (oStoragePlace.items[i].ItemSprite == noone)
-		{
-			oStoragePlace.items[i].ItemSprite = object_get_sprite(item_id.object_index);
-			break;
-		}
-	}
+	//if we pickup this item, here we can do something with it
+	other.InventoryName.hearts++; //this is just for testing, remove
 }
 
-var item_id = instance_position(x,y,oFlask);
-
-if (item_id != noone)
-{
-	for (var i=0; i< oStoragePlace.Length; i++)
-	{
-		if (oStoragePlace.items[i].ItemSprite == noone)
-		{
-			oStoragePlace.items[i].ItemSprite = object_get_sprite(item_id.object_index);
-			break;
-		}
-	}
-}
+CheckAndPickupItem(oFlask);
