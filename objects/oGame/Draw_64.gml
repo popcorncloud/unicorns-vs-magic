@@ -8,11 +8,19 @@ if (instance_exists(oPlayer))
 	draw_text(10,30,"Hearts: " + string(oInventory.hearts));
 	draw_text(10,50,"Money: " + string(oInventory.money));
 	
-	for (var i=0; i<oPlayer.StoragePlace.Length; i++)
+	//show SotragePlace + it's content
+	for (var i=0; i< oStoragePlace.Length; i++)
 	{
-		item = oPlayer.StoragePlace.items[i];
-		draw_sprite(object_get_sprite(item.object_index),0,100 + (item.sprite_width+5)*i,10);
+		//show StoragePlace
+		item = oStoragePlace.items[i];
+		draw_sprite(object_get_sprite(item.object_index),0,oStoragePlace.pos_x + (item.sprite_width + oStoragePlace.spacing)*i,oStoragePlace.pos_y);
+		if (item.ItemSprite != noone)
+		{
+			//if StoragePlace is not empty, draw the item
+			draw_sprite(item.ItemSprite,0,oStoragePlace.pos_x + (item.sprite_width + oStoragePlace.spacing)*i,oStoragePlace.pos_y);
+		}
 	}
+	
 	
 }
 
