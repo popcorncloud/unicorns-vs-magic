@@ -97,6 +97,22 @@
             "value": "0",
             "varName": "spacing",
             "varType": 0
+        },
+        {
+            "id": "6cdc3f13-b407-462a-954c-8a4c07b1e46b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": [
+                
+            ],
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "ITEMS_HOLDER_VISIBILITY.SHOW_LAST_ONLY",
+            "varName": "visibility",
+            "varType": 4
         }
     ],
     "solid": false,

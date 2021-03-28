@@ -9,3 +9,13 @@ if (CheckAndPickupItem(oRedFlower) != noone)
 }
 
 CheckAndPickupItem(oFlask);
+
+
+if !(position_meeting(x,y,oRedFlower) or position_meeting(x,y,oFlask))
+{
+	if (oStoragePlace.visibility = ITEMS_HOLDER_VISIBILITY.SHOW_LAST_ONLY)
+		oStoragePlace.visibility = ITEMS_HOLDER_VISIBILITY.SHOW_ALL;
+	else
+		oStoragePlace.visibility = ITEMS_HOLDER_VISIBILITY.SHOW_LAST_ONLY;
+}
+
