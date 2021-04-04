@@ -21,8 +21,15 @@ enum PLAYER_MOVE
 	RUN,
 	JUMP
 }
+
 enum ITEMS_HOLDER_VISIBILITY
 {
 	SHOW_ALL,
 	SHOW_LAST_ONLY
+}
+
+enum LANGUAGE
+{
+	EN,
+	SK
 }
