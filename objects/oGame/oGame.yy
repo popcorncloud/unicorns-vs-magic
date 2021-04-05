@@ -72,7 +72,20 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        
+        {
+            "id": "ce742061-5a42-4490-bfb2-d417909f5d0a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "LANGUAGE.EN",
+            "varName": "GameLanguage",
+            "varType": 4
+        }
     ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",

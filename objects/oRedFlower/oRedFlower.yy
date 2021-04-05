@@ -22,7 +22,25 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "540cc32b-bb00-4512-9c35-c668b6142f50",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": [
+                "\"Heart\"",
+                "\"Srdce\""
+            ],
+            "multiselect": true,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "\"Heart\", \"Srdce\"",
+            "varName": "name",
+            "varType": 6
+        }
+    ],
     "solid": false,
     "spriteId": "12d86781-6256-4ca4-ad4f-3b8b4de40c26",
     "visible": true

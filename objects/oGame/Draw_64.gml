@@ -17,8 +17,18 @@ if (instance_exists(oPlayer))
 				//show StoragePlace
 				item = oStoragePlace.items[i];
 				if (oStoragePlace.SelectedItem == i)
-				
+				{
 					item.highlited = true;
+					draw_set_alpha(0.5);
+					draw_set_colour(c_black);
+					var x_top = oStoragePlace.pos_x - item.sprite_width/2;
+					var y_top = oStoragePlace.pos_y + item.sprite_height/2 + oStoragePlace.spacing;
+					draw_rectangle(x_top,y_top,x_top + 500,y_top + 500,false);
+					//draw_text(x+5, y+5, "LEVEL 1");
+					draw_set_alpha(1);
+					draw_set_colour(c_white);
+					draw_text(x_top + 10, y_top + 10, item.ItemName );					
+				}
 				else
 					item.highlited = false;
 				draw_sprite(object_get_sprite(item.object_index),item.image_index,oStoragePlace.pos_x + (item.sprite_width + oStoragePlace.spacing)*i,oStoragePlace.pos_y);

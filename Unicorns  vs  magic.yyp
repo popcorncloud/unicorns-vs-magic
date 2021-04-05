@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "23cec668-fe35-497a-93dc-b2c4f89ab504",
+            "Value": {
+                "id": "26b8908e-1670-4baf-82b8-7bc05dcba391",
+                "resourcePath": "objects\\oEnemy3Dead\\oEnemy3Dead.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "27c572f0-baad-4923-a9ee-d44bd2c15968",
             "Value": {
                 "id": "393570a5-8c61-4f92-8c66-d74dff53bccb",
@@ -346,7 +354,7 @@
             "Key": "3b3fb6d6-8ce5-43a3-af12-8c0320b3fed6",
             "Value": {
                 "id": "97b14e50-5a45-4cf7-a16b-aae0c77713cb",
-                "resourcePath": "objects\\object44\\object44.yy",
+                "resourcePath": "objects\\oEnemy3\\oEnemy3.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -379,6 +387,14 @@
             "Value": {
                 "id": "be3bed57-2732-41bc-88bf-f09a252a3641",
                 "resourcePath": "sprites\\sPlayerR\\sPlayerR.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "42f7f750-f7ad-4e31-b6db-2014ed79b7b4",
+            "Value": {
+                "id": "c3512a66-55e8-4f47-97d5-cdce64d3c804",
+                "resourcePath": "sprites\\sStuff\\sStuff.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -639,6 +655,14 @@
             }
         },
         {
+            "Key": "7f82c809-ad03-4e1e-94ad-055eb1b4d631",
+            "Value": {
+                "id": "3d5c8632-9914-4089-9007-fff53d7f0742",
+                "resourcePath": "sprites\\sDragonR\\sDragonR.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8014af6e-4eab-42c7-b9e4-abb294a6e135",
             "Value": {
                 "id": "037658cc-9439-4fce-a211-f2befce41c8e",
@@ -763,6 +787,14 @@
             "Value": {
                 "id": "3de55cbb-cc3e-4e31-8496-e2ffb714eae9",
                 "resourcePath": "sprites\\sTile2\\sTile2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9f44db5f-f169-48e0-bd29-9f3ef83a651f",
+            "Value": {
+                "id": "645c5f72-cdf4-4ae0-8910-f03fc5e02bba",
+                "resourcePath": "sprites\\sDragonD\\sDragonD.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1212,6 +1244,14 @@
                 "id": "20c376ac-023f-4078-8042-ee7bcf428062",
                 "resourcePath": "objects\\oTree1\\oTree1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f27d78ef-1350-468b-91dd-80eb60fcfa0e",
+            "Value": {
+                "id": "155b6414-6f98-46ce-8b71-a93ab68a4071",
+                "resourcePath": "sprites\\sDragonJ\\sDragonJ.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -33,12 +33,12 @@
                 "\"Flask\"",
                 "\"Flaška\""
             ],
-            "multiselect": false,
+            "multiselect": true,
             "rangeEnabled": false,
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "\"Flask\"",
+            "value": "\"Flask\", \"Flaška\"",
             "varName": "name",
             "varType": 6
         }

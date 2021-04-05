@@ -69,6 +69,20 @@
             "value": "False",
             "varName": "highlited",
             "varType": 3
+        },
+        {
+            "id": "bb962c9c-3e32-4675-9f82-d2c478d21952",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "noone",
+            "varName": "ItemID",
+            "varType": 5
         }
     ],
     "solid": false,
