@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "3b3fb6d6-8ce5-43a3-af12-8c0320b3fed6",
+            "Value": {
+                "id": "97b14e50-5a45-4cf7-a16b-aae0c77713cb",
+                "resourcePath": "objects\\object44\\object44.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3b487690-ce56-44fd-a0ca-1894590e1172",
             "Value": {
                 "id": "ff5e140b-d652-4edd-bb9c-fcbcf1461e4c",
@@ -683,6 +691,14 @@
             "Value": {
                 "id": "c0e8300f-bf43-4529-bb9b-071e7019cb53",
                 "resourcePath": "sprites\\sPlayer7\\sPlayer7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8e9c3cb7-4536-4712-9a3f-8129f0a70866",
+            "Value": {
+                "id": "704134c5-dbb1-4994-bf75-ebcacae1af59",
+                "resourcePath": "sprites\\sDragon\\sDragon.yy",
                 "resourceType": "GMSprite"
             }
         },

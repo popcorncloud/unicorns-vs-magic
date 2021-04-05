@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "oItemHolder",
     "eventList": [
-        
+        {
+            "id": "a642663d-7b48-4279-bdba-04065f9904ed",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "df748428-33d5-4ace-9aa2-2c0e058c46bb"
+        },
+        {
+            "id": "bff6767f-4980-4016-aec8-bb4a8457fe4f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "df748428-33d5-4ace-9aa2-2c0e058c46bb"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -36,6 +55,20 @@
             "value": "noone",
             "varName": "ItemSprite",
             "varType": 5
+        },
+        {
+            "id": "c63cc968-9b08-4477-89c4-32ff3fe3ed4c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "highlited",
+            "varType": 3
         }
     ],
     "solid": false,

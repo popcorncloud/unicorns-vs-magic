@@ -16,7 +16,12 @@ if (instance_exists(oPlayer))
 			{
 				//show StoragePlace
 				item = oStoragePlace.items[i];
-				draw_sprite(object_get_sprite(item.object_index),0,oStoragePlace.pos_x + (item.sprite_width + oStoragePlace.spacing)*i,oStoragePlace.pos_y);
+				if (oStoragePlace.SelectedItem == i)
+				
+					item.highlited = true;
+				else
+					item.highlited = false;
+				draw_sprite(object_get_sprite(item.object_index),item.image_index,oStoragePlace.pos_x + (item.sprite_width + oStoragePlace.spacing)*i,oStoragePlace.pos_y);
 				if (item.ItemSprite != noone)
 				{
 					//if StoragePlace is not empty, draw the item

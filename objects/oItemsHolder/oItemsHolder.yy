@@ -113,6 +113,20 @@
             "value": "ITEMS_HOLDER_VISIBILITY.SHOW_LAST_ONLY",
             "varName": "visibility",
             "varType": 4
+        },
+        {
+            "id": "67bae5bf-47b2-4832-8289-c809bedaaf2c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "SelectedItem",
+            "varType": 0
         }
     ],
     "solid": false,
