@@ -8,5 +8,6 @@ for (var i=0; i<Length; i++)
 	{
 		visible = false;
 		persistent = true;
+		ItemName = "";
 	}	
 }

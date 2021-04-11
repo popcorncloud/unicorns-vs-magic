@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "13bc9fda-384f-4e24-9816-4a25702a733d",
+            "Value": {
+                "id": "e5dcfad0-0d10-4096-a47d-8ba246805a86",
+                "resourcePath": "objects\\oPotionBookItem\\oPotionBookItem.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1497ebbc-eeee-4e44-81ba-94e6001463ed",
             "Value": {
                 "id": "7ce25b3a-5d48-4f4e-a1a8-4afa1e9d90c3",
@@ -219,6 +227,14 @@
             "Value": {
                 "id": "393570a5-8c61-4f92-8c66-d74dff53bccb",
                 "resourcePath": "sprites\\sPlayer3\\sPlayer3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "283d41f2-9bce-4736-bd39-d89e1caa5724",
+            "Value": {
+                "id": "96013bd0-c351-49d3-b932-b0229f63379e",
+                "resourcePath": "sprites\\sPotionBookIcon\\sPotionBookIcon.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -371,6 +387,14 @@
             "Value": {
                 "id": "96648e62-3ed2-4d8b-9bb5-bde5ad603b56",
                 "resourcePath": "sprites\\sTiles\\sTiles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4029b370-2b2d-4f38-838a-3939eea1e2c2",
+            "Value": {
+                "id": "1e188895-8f02-40da-bac2-070a24732759",
+                "resourcePath": "sprites\\sPotionBook\\sPotionBook.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -548,6 +572,14 @@
                 "id": "cd538388-4c9a-4627-ba3b-aacb2fdfd6c6",
                 "resourcePath": "rooms\\room5\\room5.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "65ec72ff-9818-4ada-a209-1127cd1f62d7",
+            "Value": {
+                "id": "6941a70b-46eb-4eb2-ae91-fb3f090a5b04",
+                "resourcePath": "sprites\\sPotionBookText\\sPotionBookText.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -979,6 +1011,14 @@
             "Value": {
                 "id": "db3ad261-8374-47b5-bba0-cfc2967251c8",
                 "resourcePath": "objects\\oDropPickup\\oDropPickup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bcc10a14-af7c-45cc-a02b-7b8c9326414b",
+            "Value": {
+                "id": "4aef5e76-3ce1-4275-8340-e6f33204406e",
+                "resourcePath": "objects\\oPotionBook\\oPotionBook.yy",
                 "resourceType": "GMObject"
             }
         },

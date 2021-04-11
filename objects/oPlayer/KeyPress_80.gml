@@ -22,6 +22,8 @@ if (CheckAndPickupItem(oRedFlower) != noone)
 }
 
 CheckAndPickupItem(oFlask);
+CheckAndPickupItem(oPotionBookItem);
+oPotionBook.visible = false;
 
 
 

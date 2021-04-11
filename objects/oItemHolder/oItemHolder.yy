@@ -83,6 +83,20 @@
             "value": "noone",
             "varName": "ItemID",
             "varType": 5
+        },
+        {
+            "id": "3528397d-e11b-4196-a936-1026846da013",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "IsPotionBook",
+            "varType": 3
         }
     ],
     "solid": false,

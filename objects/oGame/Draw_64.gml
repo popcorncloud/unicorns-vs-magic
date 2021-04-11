@@ -27,7 +27,25 @@ if (instance_exists(oPlayer))
 					//draw_text(x+5, y+5, "LEVEL 1");
 					draw_set_alpha(1);
 					draw_set_colour(c_white);
-					draw_text(x_top + 10, y_top + 10, item.ItemName );					
+					draw_text(x_top + 10, y_top + 10, item.ItemName );
+					if(item.IsPotionBook)
+					{
+						var book_x = camera_get_view_x(view_camera[0])+x_top+50;
+						var book_y = camera_get_view_y(view_camera[0])+y_top+50;
+						oPotionBook.x = book_x;
+						oPotionBook.y = book_y;
+						oPotionBook.visible = true;
+						
+						var PageNumber = 1;
+						draw_sprite(asset_get_index("sPotionBookText"),PageNumber,book_x,book_y); //Show Page Text
+						for (var j = 1; j < oPotionBook.page[PageNumber,0] + 1; j++) //Show Items needed
+						{
+							var page_sprite_id = asset_get_index(oPotionBook.page[PageNumber,j]);
+							draw_sprite(page_sprite_id,0,book_x + (sprite_get_width(page_sprite_id) + oStoragePlace.spacing)*j,book_y);
+						}
+					}
+					else 
+						oPotionBook.visible = false;
 				}
 				else
 					item.highlited = false;

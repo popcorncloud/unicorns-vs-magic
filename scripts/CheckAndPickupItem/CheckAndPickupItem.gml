@@ -11,6 +11,11 @@ if (item_id != noone)
 		{
 			oStoragePlace.items[i].ItemSprite = object_get_sprite(item_id.object_index);
 			oStoragePlace.items[i].ItemName = item_id.name[oGame.GameLanguage];
+			
+			if (object_get_sprite(item_id.object_index) == asset_get_index("sPotionBookIcon"))
+			{
+				oStoragePlace.items[i].IsPotionBook = true;		
+			}
 			instance_destroy(item_id);
 			return item_id;
 			//break;
